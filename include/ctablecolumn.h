@@ -45,6 +45,8 @@ namespace sgdb
             void Length(unsigned int16_t fa_length);
             unsigned int16_t getLength();
 
+            void AutoInc(bool fa_autoInc);
+
         virtual ~CTableColumn();
 
         protected:
