@@ -38,6 +38,7 @@ namespace sgdb
     void CTableColumn::AutoInc(bool fa_autoInc)
     {
 
+
     }
 
 
