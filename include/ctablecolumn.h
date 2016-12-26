@@ -53,6 +53,7 @@ namespace sgdb
 
         virtual ~CTableColumn();
 
+
         protected:
 
         private:
