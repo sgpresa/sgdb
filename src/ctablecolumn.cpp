@@ -35,12 +35,25 @@ namespace sgdb
         return this->m_length;
     }
 
-    void CTableColumn::AutoInc(bool fa_autoInc)
+
+    void CTableColumn::autoInc(bool fa_autoInc)
     {
-
-
 
     }
 
+    bool CTableColumn::getAutoInc()
+    {
+
+    }
+
+    void CTableColumn::primaryKey(bool fa_primaryKey)
+    {
+
+    }
+
+    bool CTableColumn::getPrimaryKey()
+    {
+
+    }
 
 }

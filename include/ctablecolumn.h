@@ -48,6 +48,9 @@ namespace sgdb
             void autoInc(bool fa_autoInc);
             bool getAutoInc();
 
+            void primaryKey(bool fa_primaryKey);
+            bool getPrimaryKey();
+
         virtual ~CTableColumn();
 
         protected:
