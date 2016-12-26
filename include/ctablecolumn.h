@@ -55,6 +55,8 @@ namespace sgdb
         unsigned int16_t m_length;
         bool m_autoincrement;
 
+
+
     };
 
 }
