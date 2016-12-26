@@ -53,6 +53,7 @@ namespace sgdb
 
         CTableColType m_type;
         unsigned int16_t m_length;
+        bool m_autoincrement;
 
     };
 
